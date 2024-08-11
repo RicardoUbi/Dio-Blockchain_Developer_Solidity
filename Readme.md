@@ -12,6 +12,7 @@ Neste bootcamp, aprendemos conceitos de Blockchain, como as criptomoedas realmen
 * [Criando Primeiro Token do Zero nos Padrões Web3](/Criando_Token_Padrões_Web3/): Criando um contrato inteligente para criar um token ERC20 chamado RICO Coin.
 * [Criando um NFT](/Criando_NFT/): Criando um NFT na OpenSea na blockchain Polygon.
 * [Criando um NFT de Pokémon com Blockchain](/Criando_NFT_Pokemon_Blockchain/): Criando um NFT de Pokémon com Blockchain.
+* [Criando uma DAO nos Padrões Web3](/Criando_DAO_Padroes_Web3/): Criando um Projeto de Organização Autônoma Descentralizada nos Padrões Web3.
 
 ## Certificado
 
